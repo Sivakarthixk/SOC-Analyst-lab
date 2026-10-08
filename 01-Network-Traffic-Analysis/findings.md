@@ -1,8 +1,8 @@
-**# Network Traffic Analysis**
+# Network Traffic Analysis
 
 
 
-**## 1. Investigation Overview**
+## 1. Investigation Overview
 
 
 
@@ -34,7 +34,7 @@ Tool: Wireshark
 
 
 
-**## 3. Investigation Process**
+## 3. Investigation Process
 
 
 
@@ -54,7 +54,7 @@ Tool: Wireshark
 
 
 
-**## 4. DNS Analysis**
+## 4. DNS Analysis
 
 
 
@@ -94,7 +94,7 @@ traffic appeared consistent with normal DNS activity.
 
 
 
-**## 5. TCP Analysis**
+## 5. TCP Analysis
 
 
 
@@ -114,7 +114,7 @@ TCP traffic was observed between the workstation and remote hosts.
 
 
 
-**## 6. Connection Analysis**
+## 6. Connection Analysis
 
 
 
@@ -150,7 +150,7 @@ Destination Port:
 
 
 
-**## 7. Findings**
+## 7. Findings
 
 
 
@@ -160,7 +160,7 @@ No malicious activity was confirmed from the traffic analyzed.
 
 
 
-**## 8. Recommendations**
+## 8. Recommendations
 
 
 
@@ -174,7 +174,7 @@ No malicious activity was confirmed from the traffic analyzed.
 
 
 
-**## 9. Conclusion**
+## 9. Conclusion
 
 
 
