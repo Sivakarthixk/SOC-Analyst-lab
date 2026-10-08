@@ -22,7 +22,7 @@ identify normal network communication and potentially suspicious activity.
 
 
 
-**## 2. Environment**
+## 2. Environment
 
 
 
