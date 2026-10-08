@@ -41,7 +41,7 @@ A 4624 event was identified in the Windows Security Log and analyzed to understa
 | Field                  | Observed Value                |
 | ---------------------- | ----------------------------- |
 | Event ID               | 4624                          |
-| Account Name           | SIVA0315$ 			 |
+| Account Name           | SIVA0315$ 			               |
 | Logon Type             | 5                             |
 | Workstation Name       | -                             |
 | Source Network Address | -                             |
@@ -75,12 +75,12 @@ A 4625 event was identified in the Windows Security Log and analyzed to understa
 | Field                  | Observed Value                  |
 | ---------------------- | --------------------------------|
 | Event ID               | 4625                            |
-| Account Name           | SIVA0315$ 			   |
+| Account Name           | SIVA0315$ 			                 |
 | Failure Reason         | Unknown username or bad password|
 | Logon Type             | 2                               |
 | Workstation Name       | -                               |
 | Source Network Address | -                               |
-| Date and Time          | 08-10-2026 22:48:06             |
+| Date and Time          | 08-10-2026 20:56:02             |
 
 ### Analysis
 
